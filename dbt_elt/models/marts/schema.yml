@@ -1,0 +1,15 @@
+version: 2
+
+models:
+  - name: orders
+    columns:
+      - name: ORDER_ID
+        tests:
+          - unique
+          - not_null
+
+  - name: fct_orders
+    columns:
+      - name: ORDER_DATE
+        tests:
+          - not_null
