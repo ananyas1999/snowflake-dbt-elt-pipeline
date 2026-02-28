@@ -1,5 +1,15 @@
 # Snowflake ELT Pipeline with dbt
 
+## 🏗 Architecture Overview
+
+![Pipeline Architecture](architecture.png)
+
+This project simulates a Change Data Capture (CDC) pipeline using
+Jupyter for data generation, AWS S3 as the landing zone,
+Snowflake as the data warehouse, and dbt for transformation.
+
+Incremental models process new data based on MAX(CHANGE_TIME).
+
 ## Overview
 This project demonstrates a modern ELT pipeline using:
 
