@@ -46,7 +46,7 @@ Analytics Mart:
 - dbt
 - AWS S3
 - Python
-- SQL
+- and of course SQL
 
 ## How to Run
 
