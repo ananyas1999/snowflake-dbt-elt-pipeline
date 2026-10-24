@@ -57,6 +57,5 @@ Analytics Mart:
    dbt test
    dbt docs generate
 
----
 
 This project simulates a real-world cloud data engineering workflow.
