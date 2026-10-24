@@ -1,6 +1,6 @@
 # Snowflake ELT Pipeline with dbt:
 
-## 🏗 Architecture Overview
+## Architecture Overview
 
 ![Pipeline Architecture](architecture.png)
 
