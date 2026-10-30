@@ -1,4 +1,4 @@
-# Snowflake ELT Pipeline with dbt:
+# Snowflake ELT Pipeline with dbt-
 
 ## Architecture Overview
 
